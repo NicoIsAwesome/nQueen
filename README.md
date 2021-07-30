@@ -3,6 +3,9 @@
 ## nQueen wiki page
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
+## Requirements
+pip install pycosat
+
 ## Usage (python2 only)
 python nQueens.py
 
